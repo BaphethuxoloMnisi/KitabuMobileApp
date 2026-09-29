@@ -1,0 +1,24 @@
+# Final submission checklist
+
+- [x] App project folder is named `Kitabu_MADB372_SF1`
+- [x] Kotlin + Jetpack Compose Material 3 UI
+- [x] Room `BookEntity` and `BookingEntity`
+- [x] CRUD lifecycle implemented
+- [x] Dynamic SQL LIKE search
+- [x] Availability filtering
+- [x] Modal bottom sheet reservation flow
+- [x] Dashboard with booking dates, deadlines and days remaining
+- [x] Renew / Return / Cancel actions
+- [x] Navigation Compose single-activity structure
+- [x] Room Flow -> ViewModel StateFlow -> lifecycle-aware Compose collection
+- [x] Coroutines / `viewModelScope`
+- [x] KSP Room processing configuration
+- [x] Logical packages: `ui`, `data`, `di`, `domain`
+- [x] Pre-populated sample books
+- [x] Documentation created using Calibri 10 and 1.5 line spacing
+- [x] In-text referencing and reference list included
+- [ ] Replace prototype images in the Word document with **real emulator/device screenshots** after running the app
+- [ ] Insert **actual screenshots of AI prompts and AI responses** into the AI-use evidence section
+- [ ] Replace `StudName` and `[Student Number]` placeholders with your own details
+- [ ] Create/push a **public GitHub repository** and paste its URL into the documentation
+- [ ] Re-open the ZIP and verify it contains both the app folder and the Word document
